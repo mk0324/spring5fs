@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5434674f-aaa0-471d-ac63-d6a65b0d9e92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/sp5-chap06-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/src/main/java/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/src/main/java/config/AppCtxWithPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/src/main/java/spring/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sp5-chap06-study/src/main/java/spring/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f345f57d9587a25f2040cb9ddb3ce867877724d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f345f57d9587a25f2040cb9ddb3ce867877724d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71f180d40f30e992e7f5c60cc8ac36ba0ed2d9ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71f180d40f30e992e7f5c60cc8ac36ba0ed2d9ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df3e4364140d69827a6ebac178f0a23afa5b4e85" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df3e4364140d69827a6ebac178f0a23afa5b4e85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/sp5-chap07-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/aspect/CacheAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/aspect/ExeTimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/chap07/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/chap07/ExeTimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/chap07/ImpeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/chap07/RecCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/config/AppCtxWithCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/main/MainAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/main/MainAspectWithCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sp5-chap07-study/src/main/java/main/MainProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sp5-chap04study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap04study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/0/b/0b229295f0dc790b76bb7883200c3c61032d34f7" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/0/b/0b229295f0dc790b76bb7883200c3c61032d34f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/5/2/52389d8e409aea2ff3a48d375b41b11948dc56b2" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/5/2/52389d8e409aea2ff3a48d375b41b11948dc56b2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/7/f/7f08be4e9c62f2e5f8f02242af89b918cb9a135f" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap06-study/.idea/sonarlint/issuestore/7/f/7f08be4e9c62f2e5f8f02242af89b918cb9a135f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sp5-chap06-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sp5-chap06-study/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="33" selection-start-line="10" selection-start-column="4" selection-end-line="33" />
+            <state relative-caret-position="160">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -132,6 +140,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="950" />
     <option name="width" value="979" />
@@ -143,8 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,6 +203,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,17 +276,18 @@
       <workItem from="1570186973951" duration="4211000" />
       <workItem from="1570522042905" duration="760000" />
       <workItem from="1570607470753" duration="981000" />
-      <workItem from="1571023150122" duration="180000" />
+      <workItem from="1571023150122" duration="1094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13720000" />
+    <option name="totallyTimeSpent" value="14814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="0" width="783" height="872" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5615491" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5615491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main/MainForSpring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
+        <state relative-caret-position="1040">
           <caret line="81" column="57" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -415,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/AppConf2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="128">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -467,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="33" />
+        <state relative-caret-position="160">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
