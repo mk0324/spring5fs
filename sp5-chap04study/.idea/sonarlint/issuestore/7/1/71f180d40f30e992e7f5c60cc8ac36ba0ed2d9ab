@@ -1,0 +1,9 @@
+
+osquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ğÖ8¬¬üßÚ-
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(õ‰Áô8ıŞÍàÚ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÖ8’òßÚ-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(áË·»ùÿÿÿÿ8àÊÍàÚ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÖ8İ°úßÚ-
+osquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ğÖ8’òßÚ-

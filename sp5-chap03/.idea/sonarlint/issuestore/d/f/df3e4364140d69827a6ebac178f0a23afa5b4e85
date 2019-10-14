@@ -1,31 +1,31 @@
 
 T
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ú˜ ®ûÿÿÿÿ
-T
 squid:S106^"9Replace this use of System.out or System.err by a logger.(ªĞÃáıÿÿÿÿ
 T
-squid:S106j"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T
-squid:S106\"9Replace this use of System.out or System.err by a logger.(—Ó‹’ÿÿÿÿÿ
-N
-squid:S106`"9Replace this use of System.out or System.err by a logger.(¬‚¹T
-O
-squid:S106H"9Replace this use of System.out or System.err by a logger.(ı½Ïß
-T
 squid:S106 "9Replace this use of System.out or System.err by a logger.(ÇÒ×êûÿÿÿÿ
-O
-squid:S106g"9Replace this use of System.out or System.err by a logger.(ÑÖ¯í
-T
-squid:S106f"9Replace this use of System.out or System.err by a logger.(Ùäéëÿÿÿÿÿ
 t
 squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
 T
 squid:S106M"9Replace this use of System.out or System.err by a logger.(Éèåşÿÿÿÿ
 T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(—Ó‹’ÿÿÿÿÿ
+T
 squid:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ú˜ ®ûÿÿÿÿ
+T
+squid:S106f"9Replace this use of System.out or System.err by a logger.(Ùäéëÿÿÿÿÿ
 O
 squid:S106i"9Replace this use of System.out or System.err by a logger.(Î·ü“
+N
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¬‚¹T
 O
-squid:S106O"9Replace this use of System.out or System.err by a logger.(ÚıÜû
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ı½Ïß
 O
 squid:S106h"9Replace this use of System.out or System.err by a logger.(ÙôÉ­
+O
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ÑÖ¯í
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÚıÜû
